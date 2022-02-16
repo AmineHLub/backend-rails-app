@@ -1,59 +1,41 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Hello from react-rails
 
-# Project Name
+API that shows random greeting messages in different languages.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
+- RoR
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- Clone the repo
 
 ### Prerequisites
 
-### Setup
+- Make sure you have Ruby and RoR installed
+- Run bundle install
+- Run npm i
 
-### Install
+### Run
 
-### Usage
-
-### Run tests
-
-### Deployment
+Run rails db:create db:migrate db:migrate
 
 
+Run rails s
 
-## Authors
+### Use
 
-👤 **Author1**
+GET : localhost:port/v1/greeting.
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+**PS:** If you are planning to use the given frontend app. Make sure you use PORT 3000
 
-👤 **Author2**
+👤 **Mohamed Amine**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AmineHLub](https://github.com/AmineHLub)
+- Twitter: [@Amino47612441](https://twitter.com/Amino47612441)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hajltaief-b18863163/)
 
 ## 🤝 Contributing
 
@@ -67,9 +49,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+
 
 ## 📝 License
 

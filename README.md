@@ -2,8 +2,11 @@
 
 # Project Name
 
-> Description the project.
+> One paragraph statement about the project.
 
+![screenshot](./app_screenshot.png)
+
+Additional description about the project and its features.
 
 ## Built With
 
@@ -11,7 +14,7 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 

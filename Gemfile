@@ -5,7 +5,7 @@ ruby '3.0.3'
 gem 'react-rails'
 gem 'webpacker'
 
-gem 'rack-cors' 
+gem 'rack-cors'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '~> 7.0.1'
